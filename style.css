@@ -21,9 +21,9 @@
     --cor4: #1A5C37;
     --cor5: #063D1E;
 
-    --fone-padrao: 'Arial', 'Verdana', 'Helvetica', 'sans-serif';
-    --fonte-destaque: 'Bebas Neue', 'sans-serif';
-    --fonte-android: 'idroid'; 
+    --fone-padrao: Arial, Verdana, Helvetica, sans-serif;
+    --fonte-destaque: Bebas Neue, sans-serif;
+    --fonte-android: idroid; 
 }
 
 body {
